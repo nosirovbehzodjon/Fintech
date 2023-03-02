@@ -1,0 +1,27 @@
+.card {
+    height: 442px;
+    width: 420px;
+    background: #ffffff;
+    border-radius: 8px;
+    padding: 30px;
+}
+.card header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+}
+.card header h2 {
+    text-transform: uppercase;
+    color: rgba(27, 25, 83, 1);
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 30px;
+}
+.card header span svg {
+    text-transform: uppercase;
+    color: rgba(116, 111, 242, 1);
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 30px;
+}
