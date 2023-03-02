@@ -1,3 +1,7 @@
+.app {
+    display: flex;
+    justify-content: center;
+}
 .content {
     display: flex;
     flex-wrap: wrap;
@@ -5,4 +9,5 @@
     gap: 10px;
     padding: 50px;
     background-color: #f5f5f5;
+    width: 1200px;
 }
